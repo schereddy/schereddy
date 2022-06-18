@@ -1,6 +1,6 @@
 ### Hi, I'm Susmitha 👋
 
-![Susmitha](image.jpg)
+
 <!--
 **schereddy/schereddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
