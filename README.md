@@ -1,6 +1,6 @@
 ### Hi, I'm Susmitha 👋
 
-[![bg][banner]]
+![bg][banner]
 
 I am currently a studnet at Florida polytechnic university. I am passionate about data and making insights with it. Some of the technologies i enjoy working with include Python,R,PowerBI and SQL.
 
