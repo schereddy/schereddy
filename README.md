@@ -9,7 +9,6 @@ Here are some details about me :
 - 🔭 I’m currently working on Masters at Florida Polytechnic University
 - 🌱 I’m currently learning data Visualization using R
 - 👯 I’m looking to collaborate on Open source projects related to data
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about data wrangling, visualization and data modelling
 - 📫 How to reach me: you can reach me at schereddy2371@floridapoly.edu
 - 😄 Pronouns: She/Her
