@@ -1,6 +1,6 @@
 ### Hi, I'm Susmitha 👋
 
-![github_picture](https://user-images.githubusercontent.com/104657112/174460944-60bb69df-21d1-4b0a-a56c-7609fb913ce6.png)![image](https://user-images.githubusercontent.com/104657112/174461019-1abe98e2-c157-40af-acd9-7f313ef9dfb1.png)
+[![bg][banner]]
 
 I am currently a studnet at Florida polytechnic university. I am passionate about data and making insights with it. Some of the technologies i enjoy working with include Python,R,PowerBI and SQL.
 
@@ -15,4 +15,8 @@ Here are some details about me :
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cooking and painting
 
+👔 [linkedin][linkedin]
 
+[banner]: [https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png](https://user-images.githubusercontent.com/104657112/174460944-60bb69df-21d1-4b0a-a56c-7609fb913ce6.png)
+
+[linkedin]: [https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/susmitha-chereddy)
