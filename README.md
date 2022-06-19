@@ -17,6 +17,4 @@ Here are some details about me :
 
 👔 [linkedin][linkedin]
 
-[banner]: [https://user-images.githubusercontent.com/104657112/174460944-60bb69df-21d1-4b0a-a56c-7609fb913ce6.png]
-
 [linkedin]: [https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/susmitha-chereddy)
