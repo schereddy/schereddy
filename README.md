@@ -2,7 +2,7 @@
 
 ![bg](https://user-images.githubusercontent.com/104657112/174460944-60bb69df-21d1-4b0a-a56c-7609fb913ce6.png)
 
-I am currently a studnet at Florida polytechnic university. I am passionate about data and making insights with it. Some of the technologies i enjoy working with include Python,R,PowerBI and SQL.
+I am currently a student at Florida polytechnic university. I am passionate about data and making insights with it. Some of the technologies i enjoy working with include Python,R,PowerBI and SQL.
 
 Here are some details about me :
 
