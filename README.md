@@ -1,6 +1,7 @@
 ### Hi, I'm Susmitha 👋
 
-![image](https://user-images.githubusercontent.com/104657112/174460962-f163b186-91bd-4b38-b07a-00146fe89e6d.png)
+![github_picture](https://user-images.githubusercontent.com/104657112/174460944-60bb69df-21d1-4b0a-a56c-7609fb913ce6.png)![image](https://user-images.githubusercontent.com/104657112/174461019-1abe98e2-c157-40af-acd9-7f313ef9dfb1.png)
+
 
 <!--
 **schereddy/schereddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
