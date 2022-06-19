@@ -16,4 +16,4 @@ Here are some details about me :
 
 👔 [linkedin][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/susmitha-chereddy
+[linkedin]: https://www.linkedin.com/in/susmitha-chereddy-14bb30b4
